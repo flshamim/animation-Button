@@ -45,13 +45,13 @@
   font-size: 11px;
   letter-spacing: 1px;
   font-weight: bold;
-  background: #000;
+  background: rgb(255, 251, 0);
   -webkit-mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/nature-sprite.png");
   mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/nature-sprite.png");
   -webkit-mask-size: 2300% 100%;
   mask-size: 2300% 100%;
   border: none;
-  color: #fff;
+  color: rgb(255, 0, 0);
   cursor: pointer;
   -webkit-animation: ani2 0.7s steps(22) forwards;
   animation: ani2 0.7s steps(22) forwards;
@@ -69,7 +69,7 @@
   margin-right: auto;
   margin-top: 7vh;
   overflow: hidden;
-  border: 1px solid #000;
+  border: 1px solid rgb(0, 0, 0);
   font-family: "Lato", sans-serif;
   font-weight: 300;
   transition: 0.5s;
@@ -84,13 +84,13 @@
   font-size: 11px;
   letter-spacing: 1px;
   font-weight: bold;
-  background: #000;
+  background: rgb(0, 255, 0);
   -webkit-mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/urban-sprite.png");
   mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/urban-sprite.png");
   -webkit-mask-size: 3000% 100%;
   mask-size: 3000% 100%;
   border: none;
-  color: #fff;
+  color: rgb(140, 0, 255);
   cursor: pointer;
   -webkit-animation: ani2 0.7s steps(29) forwards;
   animation: ani2 0.7s steps(29) forwards;
@@ -155,7 +155,7 @@
   }
 }
 a {
-  color: #00ff95;
+  color: #0ce78c;
 }
 
 .button-container-3 {
@@ -181,13 +181,13 @@ a {
   font-size: 11px;
   letter-spacing: 1px;
   font-weight: bold;
-  background: #000;
+  background: rgb(9, 97, 230);
   -webkit-mask: url("https://raw.githubusercontent.com/pizza3/asset/master/natureSmaller.png");
   mask: url("https://raw.githubusercontent.com/pizza3/asset/master/natureSmaller.png");
   -webkit-mask-size: 7100% 100%;
   mask-size: 7100% 100%;
   border: none;
-  color: #fff;
+  color: rgb(129, 255, 156);
   cursor: pointer;
   -webkit-animation: ani2 0.7s steps(70) forwards;
   animation: ani2 0.7s steps(70) forwards;
